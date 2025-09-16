@@ -13,7 +13,7 @@
 ---
 
 ## 🔧 Tech & Tools
-**Languages:** Python | JavaScript | C | Java | SQL | PHP | Bash 
+**Languages:** Python | JavaScript | C | Java | SQL | PHP | Bash     
 **Web:** HTML | CSS | React | Node.js | Express  
 **Security Tools:** Burp Suite | OWASP ZAP | Nmap | Wireshark | Metasploit  
 **Compliance & Governance:** ISO 27001 | SOC 2 | Risk Assessment | Security Audits 
