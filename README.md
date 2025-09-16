@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm DHINESH M
 
-<!--
-**dhineshspsec/dhineshspsec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 **Cybersecurity Analyst** | 💻 **Full-Stack Developer** | 🕵️‍♂️ **Web App Penetration Tester**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛡️ About Me
+- 🌱 Currently working as a **Security Analyst**  
+- 🧑‍💻 Skilled in **Full-Stack Development** & **Web Application Security**  
+- 🚀 Passionate about securing applications and building scalable solutions  
+- 📚 Continuously learning **cloud security, DevSecOps, and advanced pentesting**  
+
+---
+
+## 🔧 Tech & Tools
+**Languages:** Python | JavaScript | C | Java | SQL | PHP
+**Web:** HTML | CSS | React | Node.js | Express  
+**Security Tools:** Burp Suite | OWASP ZAP | Nmap | Wireshark | Metasploit  
+**Other Tools:** Git | Linux | Docker | Postman  
